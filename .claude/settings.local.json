@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mount)",
-      "Bash(python -c \"import backup_engine; import usb_device; import config; print\\('All imports successful'\\)\")",
-      "Bash(dir /s /b \"D:\\\\Ai Agent\\\\newProject\\\\usb_auto_backup\")"
-    ]
-  }
-}
