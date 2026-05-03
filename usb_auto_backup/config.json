@@ -1,9 +1,0 @@
-{
-  "backup_dir": "C:\\usb_backups",
-  "file_types": ["pdf", "docx", "xlsx", "txt", "jpg", "jpeg", "png", "mp4", "mp3", "zip", "rar", "pptx", "csv"],
-  "hash_method": "sha256",
-  "log_file": "C:\\usb_backup.log",
-  "db_path": "./backups.db",
-  "monitor_interval": 2,
-  "max_file_size_mb": 1000
-}
